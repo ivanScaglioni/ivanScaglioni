@@ -10,6 +10,8 @@
 ![icon-git](https://user-images.githubusercontent.com/91486406/163635174-eb144465-c595-4b97-bbca-bf2460c3ba0e.svg)
 ![icon-webpack](https://user-images.githubusercontent.com/91486406/163634967-87696b44-3c6a-43b1-8342-a1bc681a1e26.svg)
 ![mongodb](https://user-images.githubusercontent.com/91486406/163636058-856ca355-f2eb-4a59-9c90-08d5f2d5defc.png)
+![icon-next](https://user-images.githubusercontent.com/91486406/201759097-9f5d4ee6-5c34-4d1e-87d1-7e8108d6336b.svg) and more...
+ 
 - ## 📧 Gmail: ivanscargentino@gmail.com
 - ## 📮 Telegam: https://t.me/IvanScaglioni
 - ## 👉 website: https://ivanscaglioni.github.io/
