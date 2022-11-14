@@ -1,6 +1,6 @@
 - # 👋 Hi, I’m ivan Scaglioni 
 - ## 👀 I’m interested in programming
-- ## 🌱 I’m currently learning Web development, c++, problem solving
+- ## 🌱 I’m currently learning Web development
 - # 🧰 skills: 
 - ![icon-javascript](https://user-images.githubusercontent.com/91486406/163634693-93a7f70e-4fbb-4391-baa8-29a0b100b224.svg)![icon-node](https://user-images.githubusercontent.com/91486406/163634949-a2e6bf9c-020d-4e6b-9495-f98b7d8ca129.svg)
 ![icon-vue](https://user-images.githubusercontent.com/91486406/163635138-05688dbc-25b2-4945-a2e4-d8f7eb5a5c26.svg)
