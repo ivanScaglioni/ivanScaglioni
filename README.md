@@ -8,21 +8,48 @@
 
 
 
-- 👨‍💻 web site [https://lioni.vercel.app/](https://lioni.vercel.app/)
+<div align="center">
+ 
 
-- 📫 How to reach me **ivanscargentino@gmial.com**
+ <h3> <a href="https://lioni.vercel.app/" target="blank">Personal Website</a> </h3>  
+
+ 
+ ---
+ 
+ ![icon-gmail](https://user-images.githubusercontent.com/91486406/211257107-af6c0c95-dc7b-4691-8f5e-54ddda9ec900.svg)  
+ 
+ **ivanscargentino@gmial.com**
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ivan scaglioni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan scaglioni" height="30" width="40" /></a>
-
- <a href="https://t.me/IvanScaglioni" alt="telegram" height="30" width="40" > ![icon-telegram](https://user-images.githubusercontent.com/91486406/210748857-20c8f9b3-8b65-4b26-a575-7fb7d64d588d.svg)
-</a>
+ 
+<a href="https://t.me/IvanScaglioni"  alt="telegram" height="30" width="40">
+ <img align="center" src="https://user-images.githubusercontent.com/91486406/210748857-20c8f9b3-8b65-4b26-a575-7fb7d64d588d.svg" alt="ivan scaglioni" height="40" width="40" />
+ </a>
 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="left"> 
+ 
+![icon-javascript](https://user-images.githubusercontent.com/91486406/211254139-5b49290f-d94c-467d-a317-8afc815674a0.svg)  ![icon-typescript](https://user-images.githubusercontent.com/91486406/211254173-fb27d0a2-bc4d-4560-ad2e-56039fed5d03.svg)
+![icon-express](https://user-images.githubusercontent.com/91486406/211254435-618f0e02-b638-496e-bd25-f3ade1e30e40.svg)
+![icon-git](https://user-images.githubusercontent.com/91486406/211254457-72139831-d2d7-4ebf-99f2-e1717d5d4edf.svg)
+![icon-html5](https://user-images.githubusercontent.com/91486406/211254491-ae19354d-9b9c-417b-899b-f4a13bcf5ab4.svg)
+![icon-css](https://user-images.githubusercontent.com/91486406/211254522-8abf1cac-3438-4198-a540-71a52b8a7c63.svg)
+<img src="https://user-images.githubusercontent.com/91486406/211254558-ccc62f5b-7958-4c65-a00a-0000d9a0d730.svg" width="50" />
+![icon-node](https://user-images.githubusercontent.com/91486406/211254575-1a0d1ec8-3adf-46bf-b731-e7cbc3cfa81a.svg)
+![icon-next](https://user-images.githubusercontent.com/91486406/211254578-e1017e31-a0cb-4950-80ff-b2a0f88ded2a.svg)
+<img src="https://user-images.githubusercontent.com/91486406/211254588-1c19ddb9-6a7d-4624-9c1f-5ef772f6de24.svg" width="50" />
+<img src="https://user-images.githubusercontent.com/91486406/211254606-8a2c2c37-8d48-4517-9dca-6d02c9298f92.svg" width="50" />
+<img src="https://user-images.githubusercontent.com/91486406/211254610-bcf8e903-72d8-424c-8543-51d1dae0f7d4.svg" width="50" />
+![icon-vue](https://user-images.githubusercontent.com/91486406/211254622-8c756f95-83b4-4087-8cef-3ee5dac01a86.svg)
+
+</p>
 
 <br>
 
