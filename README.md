@@ -18,8 +18,10 @@
  
  ![icon-gmail](https://user-images.githubusercontent.com/91486406/211257107-af6c0c95-dc7b-4691-8f5e-54ddda9ec900.svg)  
  
- **ivanscargentino@gmial.com**
+ **ivanscargentino@gmial.com**  
+ 
 </div>
+
 
 
 
@@ -50,6 +52,7 @@
 ![icon-vue](https://user-images.githubusercontent.com/91486406/211254622-8c756f95-83b4-4087-8cef-3ee5dac01a86.svg)
 
 </p>
+<img src="https://www.codewars.com/users/LIONI/badges/large" />
 
 <br>
 
