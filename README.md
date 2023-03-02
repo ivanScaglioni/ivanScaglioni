@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ivan scaglioni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan scaglioni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ivan-scaglioni-6b7719221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan scaglioni" height="30" width="40" /></a>
  
 <a href="https://t.me/IvanScaglioni"  alt="telegram" height="30" width="40">
  <img align="center" src="https://user-images.githubusercontent.com/91486406/210748857-20c8f9b3-8b65-4b26-a575-7fb7d64d588d.svg" alt="ivan scaglioni" height="40" width="40" />
