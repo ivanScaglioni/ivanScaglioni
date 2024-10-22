@@ -8,9 +8,6 @@
 
 <div align="center">
  
-
- <h3> <a href="https://lioni-02.vercel.app/" target="blank">Personal Website</a> </h3>  
-
  
  ---
  
